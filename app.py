@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Dashboard Deportivo", layout="centered")
 
-st.title("Panel de rendimiento: Equipo Datos Santoto")
+st.title("Panel de rendimiento: Equipo de Datos e IA Santoto Tunja")
 st.write("Estad{isticas clave de los jugadores en el semestre actual")
 
 datos= {
